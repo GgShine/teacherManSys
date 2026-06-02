@@ -6,52 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6860e2b0-271e-44b3-b4f6-ea38b38112eb" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/css/app.56f1fb82.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/js/app.a4a604ba.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/dist/js/app.a4a604ba.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/api/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/utils/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/utils/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/ArchiveQuery.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/ArchiveQuery.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/ArchiveReview.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/ArchiveReview.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/ArchiveSubmit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/ArchiveSubmit.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/views/TemplateManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/TemplateManage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/ArchivesManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/ArchivesManagementApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/JwtConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/JwtConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/MybatisPlusConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/ArchiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/ArchiveController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/HealthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/HealthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/TemplateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/TemplateController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/ArchiveSubmitDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/ArchiveSubmitDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/LoginDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/ArchiveRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/ArchiveRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/ArchiveTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/ArchiveTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/ReviewRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/ReviewRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/mapper/ArchiveMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/mapper/ArchiveMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/mapper/TemplateMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/mapper/TemplateMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/ArchiveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/ArchiveService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/TemplateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/TemplateService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/ArchiveServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/ArchiveServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/TemplateServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/TemplateServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/FileUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +199,7 @@
       <workItem from="1780280577975" duration="4677000" />
       <workItem from="1780302338376" duration="454000" />
       <workItem from="1780302824388" duration="693000" />
-      <workItem from="1780358566087" duration="9126000" />
+      <workItem from="1780358566087" duration="10266000" />
     </task>
     <servers />
   </component>

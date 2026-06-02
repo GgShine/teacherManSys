@@ -10,6 +10,13 @@ spring:
     password: 1234567890a
     driver-class-name: com.mysql.cj.jdbc.Driver
 
+  sql:
+    init:
+      mode: always
+      encoding: UTF-8
+      schema-locations: classpath:schema.sql
+      data-locations: classpath:data.sql
+
   jpa:
     hibernate:
       ddl-auto: update
