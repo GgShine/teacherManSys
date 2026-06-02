@@ -1,4 +1,3 @@
-// src/main/java/com/edu/archives/entity/Department.java
 package com.edu.archives.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
@@ -8,6 +7,8 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
+// 部门实体。
+// 调用场景：用户、模板等业务可通过 departmentId 与该表关联。
 @Data
 @TableName("t_department")
 public class Department {

@@ -7,6 +7,8 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
+// 用户实体。
+// 调用关系：UserMapper 负责持久化；UserServiceImpl 负责业务读写；UserController 对外返回该对象。
 @Data
 @TableName("t_user")
 public class User {

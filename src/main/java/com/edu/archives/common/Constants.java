@@ -1,5 +1,7 @@
 package com.edu.archives.common;
 
+// 业务常量定义。
+// 调用关系：ServiceImpl 在流程状态判断中大量使用。
 public interface Constants {
     // 用户角色常量
     interface UserRole {

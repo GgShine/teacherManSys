@@ -7,6 +7,8 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
+// 审核记录实体。
+// 调用场景：档案审核流程可把每次审批行为落到该表（当前业务尚未完全接入）。
 @Data
 @TableName("t_review_record")
 public class ReviewRecord {

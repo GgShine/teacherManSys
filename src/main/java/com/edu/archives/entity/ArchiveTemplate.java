@@ -7,6 +7,8 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
+// 档案模板实体。
+// 调用关系：TemplateMapper 进行数据库读写；TemplateServiceImpl 执行业务逻辑。
 @Data
 @TableName("t_archive_template")
 public class ArchiveTemplate {

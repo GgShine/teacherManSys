@@ -7,6 +7,8 @@ import lombok.Data;
 
 import java.time.LocalDateTime;
 
+// 档案记录实体。
+// 调用关系：ArchiveMapper 读写该对象；ArchiveServiceImpl 驱动状态流转。
 @Data
 @TableName("t_archive_record")
 public class ArchiveRecord {
