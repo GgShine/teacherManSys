@@ -57,6 +57,8 @@ export default {
             this.$router.push('/')
           }).catch(() => {
             this.loading = false
+          }).finally(() => {
+            this.loading = false
           })
         }
       })

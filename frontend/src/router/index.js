@@ -1,4 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import store from '@/store'
 import Login from '../views/Login.vue'
 import Home from '../views/Home.vue'
 import TemplateManage from '../views/TemplateManage.vue'
@@ -50,6 +51,28 @@ const routes = [
 const router = createRouter({
     history: createWebHistory(),
     routes
+})
+
+router.beforeEach((to, from, next) => {
+    const token = store.getters.token
+    const roleId = store.getters.roleId
+
+    if (to.meta.requiresAuth && !token) {
+        next('/login')
+        return
+    }
+
+    if (token && to.path === '/login') {
+        next('/')
+        return
+    }
+
+    if (to.meta.roles && to.meta.roles.length > 0 && !to.meta.roles.includes(roleId)) {
+        next('/archive-query')
+        return
+    }
+
+    next()
 })
 
 export default router

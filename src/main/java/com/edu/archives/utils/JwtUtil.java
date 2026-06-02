@@ -45,7 +45,14 @@ public class JwtUtil {
      * 验证token是否过期
      */
     public static boolean isTokenExpired(String token) {
-        Date expiration = parseToken(token).getExpiration();
-        return expiration.before(new Date());
+        try {
+            Claims claims = parseToken(token);
+            if (claims == null) {
+                return true; // 解析失败视为过期
+            }
+            return claims.getExpiration().before(new Date());
+        } catch (Exception e) {
+            return true;
+        }
     }
 }

@@ -6,6 +6,34 @@
   <component name="ChangeListManager">
     <list default="true" id="6860e2b0-271e-44b3-b4f6-ea38b38112eb" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/utils/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/ArchiveQuery.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/ArchiveQuery.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/ArchiveReview.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/ArchiveReview.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/ArchiveSubmit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/ArchiveSubmit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/TemplateManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/TemplateManage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/common/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/JwtConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/JwtConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/config/MybatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/ArchiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/ArchiveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/TemplateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/controller/TemplateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/ArchiveSubmitDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/ArchiveSubmitDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/dto/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/ArchiveService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/ArchiveService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/TemplateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/TemplateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/ArchiveServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/ArchiveServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/TemplateServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/service/impl/TemplateServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edu/archives/utils/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +65,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ArchivesManagementApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/project/aiYolo",
+    "last_opened_file_path": "E:/project/aiCode/teaProFilManSys/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,7 +86,24 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\aiCode\teaProFilManSys\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ArchivesManagementApplication">
+    <configuration name="ArchivesManagementApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.archives.ArchivesManagementApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.archives.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="teaProFilManSys" />
       <option name="ENV_FILES" value="" />
@@ -139,6 +189,13 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="ArchivesManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="classroom-archives-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.archives.ArchivesManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <module name="teaProFilManSys" />
       <option name="ENV_FILES" value="" />
@@ -152,6 +209,11 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ArchivesManagementApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -164,7 +226,7 @@
       <workItem from="1780280577975" duration="4677000" />
       <workItem from="1780302338376" duration="454000" />
       <workItem from="1780302824388" duration="693000" />
-      <workItem from="1780358566087" duration="1791000" />
+      <workItem from="1780358566087" duration="6796000" />
     </task>
     <servers />
   </component>
